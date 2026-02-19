@@ -3,8 +3,9 @@ name: capability-ladder-design
 description: Design a progressive capability roadmap where each milestone enables the next. Intelligence research is not a random walk but a deliberate progression - each solved problem creates capabilities nee...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3531
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - capability-ladder-design
 - writing
